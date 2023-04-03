@@ -1,9 +1,7 @@
 <h1 align="center">Projeto Gradil</h1>
-Projeto Gradil de um software para calcular a lista de materiais e o consumo de cercas para uma empresa.
+Projeto Gradil é um projeto de software para calcular a lista de materiais e o consumo de cercas para uma empresa.
 
-Foram utilizados os seguintes conceitos para o desenvolvimento:
-
-<h2>Tecnologias</h2>
+<h2>Tecnologias e Componentes</h2>
 
 1. Fundamentos da POO
 2. Linguagem C#
