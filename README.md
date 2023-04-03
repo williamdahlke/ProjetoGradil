@@ -9,7 +9,7 @@ Projeto Gradil é um projeto de software para calcular a lista de materiais e o 
 4. Banco de Dados SQLITE
 5. IDE Visual Studio 2022
 6. DB Browser SQLITE
-7. Pacotes Nuget: 
+7. Pacotes Nuget 
     1. Microsoft.EntityFrameworkCore
     2. Microsoft.EntityFrameworkCore.Sqlite
     3. Microsoft.EntityFrameworkCore.Sqlite.Core
