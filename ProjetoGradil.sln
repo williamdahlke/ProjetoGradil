@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoGradil", "ProjetoGradil.csproj", "{CD31DDC2-0233-4135-8DB5-E2E16255CEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD31DDC2-0233-4135-8DB5-E2E16255CEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD31DDC2-0233-4135-8DB5-E2E16255CEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD31DDC2-0233-4135-8DB5-E2E16255CEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD31DDC2-0233-4135-8DB5-E2E16255CEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B04653-58A8-4014-9B12-75DF6105651E}
+	EndGlobalSection
+EndGlobal
