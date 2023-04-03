@@ -10,8 +10,7 @@ Foram utilizados os seguintes conceitos para o desenvolvimento:
 3. Entity Framework Core
 4. Banco de Dados SQLITE
 5. Pacotes Nuget: 
-6. Fundamentos da POO
-  1. Microsoft.EntityFrameworkCore
-  2. Microsoft.EntityFrameworkCore.Sqlite
-  3. Microsoft.EntityFrameworkCore.Sqlite.Core
-  4. Microsoft.EntityFrameworkCore.Tools
+    1. Microsoft.EntityFrameworkCore
+    2. Microsoft.EntityFrameworkCore.Sqlite
+    3. Microsoft.EntityFrameworkCore.Sqlite.Core
+    4. Microsoft.EntityFrameworkCore.Tools
